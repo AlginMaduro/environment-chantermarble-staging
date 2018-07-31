@@ -2,9 +2,6 @@ dependencies:
 - name: algin-maduro
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.1
-- name: demo
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: example
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
